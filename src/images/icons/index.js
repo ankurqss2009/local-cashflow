@@ -1,0 +1,30 @@
+export { ReactComponent as BabySVG } from "./baby.svg";
+export { ReactComponent as CharitySVG } from "./charity.svg";
+export { ReactComponent as DealSVG } from "./deal.svg";
+export { ReactComponent as DoodadSVG } from "./doodad.svg";
+export { ReactComponent as DownsizedSVG } from "./downsized.svg";
+export { ReactComponent as MarketSVG } from "./market.svg";
+export { ReactComponent as PaydaySVG } from "./payday.svg";
+export { ReactComponent as BoatSVG } from "./boat.svg";
+export { ReactComponent as SalonSVG } from "./salon.svg";
+export { ReactComponent as TaxAuditSVG } from "./tax-audit.svg";
+export { ReactComponent as CashflowSVG } from "./cashflow.svg";
+
+export { ReactComponent as DealCenterSVG } from "./deal-center.svg";
+export { ReactComponent as DoodadCenterSVG } from "./doodad-center.svg";
+export { ReactComponent as MarketCenterSVG } from "./market-blue.svg";
+
+export { ReactComponent as BusinessManagerSvg } from "./businessmanager.svg";
+export { ReactComponent as CEOSvg } from "./ceo.svg";
+export { ReactComponent as DoctorSvg } from "./doctor.svg";
+export { ReactComponent as EngineerSvg } from "./engineer.svg"
+export { ReactComponent as JanitorSvg } from "./janitor.svg";
+export { ReactComponent as LawyerSvg } from "./lawyer.svg";
+export { ReactComponent as MachanicSvg } from "./machanic.svg";
+export { ReactComponent as DefaultSvg } from "./normalPerson.svg";
+export { ReactComponent as NurseSvg } from "./nurse.svg";
+export { ReactComponent as PilotSvg } from "./pilot.svg";
+export { ReactComponent as PoliceOfficerSvg } from "./policeofficer.svg";
+export { ReactComponent as SecretarySvg } from "./secretary.svg";
+export { ReactComponent as TeacherSvg } from "./teacher.svg";
+export { ReactComponent as TruckDriverSvg } from "./truckdriver.svg";
